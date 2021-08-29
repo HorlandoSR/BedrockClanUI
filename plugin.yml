@@ -1,7 +1,7 @@
 name: BcClanUI
 author: HaykalPRO
 website: "https://github.com/HorlandoSR"
-main: BcClanUI\Main
+main: BcClanUI\HaykalPRO\Main
 version: 3.0.0
 
 commands:
