@@ -1,0 +1,9 @@
+name: BcClanUI
+author: HaykalPRO
+website: "https://github.com/HorlandoSR"
+main: BcClanUI\Main
+version: 3.0.0
+
+commands:
+              bc:
+                    description: "§l§aShow Menu BedrockClanUI"
