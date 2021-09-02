@@ -1,9 +1,8 @@
-name: BcClanUI
-author: HaykalPRO
-website: "https://github.com/HorlandoSR"
-main: BcClanUI\HaykalPRO\Main
+name: Clan
 version: 3.0.0
-
+main: Clan\Main
+api: 3.0.0
+author: LetTIHL And HaykalPRO
 commands:
-              bc:
-                    description: "§l§aShow Menu BedrockClanUI"
+ clanui:
+  description: "ClanUI"
