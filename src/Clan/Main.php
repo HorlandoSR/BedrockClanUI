@@ -21,7 +21,7 @@ class Main extends PluginBase implements Listener {
 	}
 
 	public function onDisable(){
-		$this->getLogger()->info("§l§6Plugin Disable, Not Detected FormAPI");
+		$this->getLogger()->info("§l§cPlugin Disable, Not Detected FormAPI");
 	}
 	
 	public function onCommand(CommandSender $player, Command $cmd, String $label, array $args) : bool {
