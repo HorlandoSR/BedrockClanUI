@@ -40,7 +40,7 @@ class Main extends PluginBase implements Listener {
           switch($data){
               case 0:break;
               case 1:
-			  $this->Create($player);
+	      $this->Create($player);
               break;
               case 2:
               $this->getServer()->getCommandMap()->dispatch($player, "clan delete");
