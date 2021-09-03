@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace HaykalPRO;
+namespace Clan;
 
 use pocketmine\form\Form as IForm;
 use pocketmine\Player;
