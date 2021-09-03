@@ -1,4 +1,6 @@
 # BedrockClanUI
 Show Menu BedrockClan With UI
 
-Author: HaykalPRO And Lethil
+Real Author: HaykalPRO And LetTIHL
+
+Don't Change Author!!
