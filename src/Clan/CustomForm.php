@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 namespace Clan;
 
-class CustomForm extends Clan {
+class CustomForm extends Form {
 
     private $labelMap = [];
 
